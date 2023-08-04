@@ -49,11 +49,6 @@ The following Microsoft excel skills were incorporated-
 
   ## Business Questions Visuals 
 
-Worksheet 1                     |  Worksheet 2
-:------------------------------:|:-----------------------:
-![](one.png)                 | ![](two.png)
-
-
 
 Chart 1                     |  Chart 2
 :------------------------------:|:-----------------------:
