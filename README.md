@@ -16,7 +16,6 @@ This is project is to help understand the sales performance of super store compa
  vi) What are the 3  least profitable sub categories?
 
  ## Key Perfromance Indicator
-
 The following were the KPI that was used in the report 
 
 i).Total Sales
